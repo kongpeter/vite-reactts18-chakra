@@ -1,7 +1,5 @@
 # FE Coding Test 2023
 
-The CLI is from the vite community: https://github.com/The24thDS/vite-reactts18-chakra-jest-husky
-
 Time: 3.5h
 
 
@@ -23,7 +21,8 @@ yarn dev
 
 # Future Improvement
 
-- use Tailwind CSS
+- Use Tailwind CSS and nextjs to SSR
 - Performance optimization, like memo, or cache api response into localstorage to improve the first screen.
 - Current skeleton is too simple, can be improved
 - Support theme change
+- Support user to select different options to sort
